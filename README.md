@@ -5,15 +5,11 @@
 
 - 🔭 I’m currently working on **a research based on non-profit universities in the USA**
 
-- 🌱 I’m currently learning **Data analysis, Visualization, data engineering**
-
-- 👯 I’m looking to collaborate on **Data analytics, machine learning, and business intelligence projects**
+- 👯 I’m looking to collaborate on **Data analytics, Business Analytics, and business intelligence projects**
 
 - 🤝 I’m currently part of a **Data Science Bootcamp & NYU IISE Student Chapter (Director of Operations)**
 
 - 👨‍💻 My Portfolio [https://vedangisawant.my.canva.site/dagswgohzdk](https://vedangisawant.my.canva.site/dagswgohzdk)
-
-- 💬 Ask me about **Data analytics, business intelligence, SQL, Python, Power BI, Tableau, and process optimization**
 
 - 📫 How to reach me **vedangisawant04@gmail.com**
 
