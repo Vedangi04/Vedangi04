@@ -8,6 +8,10 @@
 - 👯 I’m looking to collaborate on **Data analytics, Business Analytics, and business intelligence projects**
 
 - 🤝 I’m currently part of a **Data Science Bootcamp & NYU IISE Student Chapter (Director of Operations)**
+  
+- 🤝 I’m currently part of a **Leetcode Bootcamp**
+
+- 🤝 I’m currently part of a **Vertically Integrated Project** as a Graduate Researcher
 
 - 👨‍💻 My Portfolio [https://vedangisawant.my.canva.site/dagswgohzdk](https://vedangisawant.my.canva.site/dagswgohzdk)
 
