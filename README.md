@@ -13,8 +13,6 @@
 
 - 🤝 I’m currently part of a **Vertically Integrated Project** as a Graduate Researcher
 
-- 👨‍💻 My Portfolio [https://vedangisawant.my.canva.site/dagswgohzdk](https://vedangisawant.my.canva.site/dagswgohzdk)
-
 - 📫 How to reach me **vedangisawant04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
